@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Aug 2023 21:41:18 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The last hero 0</title>
+      <link>http://example.org/posts/last_hero_0/</link>
+      <pubDate>Wed, 23 Aug 2023 21:41:18 +0800</pubDate>
+      
+      <guid>http://example.org/posts/last_hero_0/</guid>
+      <description>The last hero Prologue A planet with advanced life revolves in the vast and boundless universe. The only group of advanced life on the planet calls itself human beings!
+Awakening from the primitive age, time has evolved over tens of millions of years, and after three consecutive mythological ages of &amp;ldquo;worshiping gods&amp;rdquo;, &amp;ldquo;destroying gods&amp;rdquo; and &amp;ldquo;creating gods&amp;rdquo;, human beings have entered a new era. Leaving aside, human beings grasped the sharp weapon of &amp;ldquo;science&amp;rdquo;, cut off the power of instinct absorbed in them, and stepped into a new era of high development.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Mon, 21 Aug 2023 23:16:22 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>hello world hello world</description>
+    </item>
+    
+  </channel>
+</rss>

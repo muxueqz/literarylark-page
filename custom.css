@@ -1,0 +1,59 @@
+/* You can add custom styles here. */
+.btn-group {
+  /* display: flex; */
+  display: block;
+}
+
+.btn {
+  /* flex: 1; */
+  text-align: center;
+  /* padding: 1em; */
+  color: white;
+  background: rgb(28, 184, 65);
+}
+.btn:visited {
+  color: white;
+}
+
+.container {
+  /* padding-left: 8.25rem; */
+  /* padding-right: 8.25rem; */
+}
+.l-box {
+  padding: 1em;
+}
+/* .rainbow { */
+/*   background: linear-gradient(to right, blue,red,orange,yellow,green,indigo,violet); */
+/*   color: white; */
+/* } */
+
+.rainbow {
+  background: linear-gradient(
+    to right,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet 80%,
+    white 20%
+  );
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  color: white;
+}
+
+.rainbow:hover {
+  background-position: 0 0;
+  transition: background-position 0.5s;
+}
+
+.img-icon {
+  display: inline-block;
+}
+
+.book-list {
+  list-style: none;
+  margin-bottom: 16px;
+}
